@@ -7,3 +7,7 @@ color: white;
 position:fixed;
 margin-left:-13px;
 }
+
+.picture{
+ content:url(https://scontent.fmnl3-1.fna.fbcdn.net/v/t1.0-9/29136686_1869461489740117_5003780596560822272_n.jpg?oh=9f8a3abc346379a2f595ba3bdaa022da&oe=5B0450C1);
+}
