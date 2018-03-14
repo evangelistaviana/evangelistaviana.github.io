@@ -11,6 +11,8 @@ margin-left:-13px;
 .picture{
    background-background-color:black;
    background-image: url('https://scontent.fmnl6-1.fna.fbcdn.net/v/t1.0-9/29136753_1870330049653261_7769580668639510528_n.jpg?oh=721eb2e2d2e5dfc490fe7f368e7f3062&oe=5B4175B0');
-   margin-left:-13px;
-   top:-10px;
+   background-size: contain;
+   background-repeat: no-repeat;
+   width: 100%;
+   height: 0;
 }
