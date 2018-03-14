@@ -18,3 +18,9 @@ position:absolute;
 top:-10px;
 margin-left:-13px;
 }
+
+.intro{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
