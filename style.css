@@ -62,6 +62,7 @@ a {
 
 .pic {
     position: absolute;
+    margin-left: 230px;
     width: 600px;
     float: left;
     height: 120px;
