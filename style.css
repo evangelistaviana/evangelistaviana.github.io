@@ -42,14 +42,14 @@ left: 60px;
 #first {
     width: 200px;
     float: left;
-    height: 700px;
+    height: 900px;
     background-color: transparent;
 }
 
 #second {
     width: 900px;
     float: left;
-    height: 700px;
+    height: 900px;
     background-color: #080808;
     color: white;
 }
