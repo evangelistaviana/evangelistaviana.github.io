@@ -39,14 +39,14 @@ left: 60px;
     margin: 30px;
 }
 #first {
-    width: 200px;
+    width: 300px;
     float: left;
     height: 700px;
     background-color: transparent;
 }
 
 #second {
-    width: 600px;
+    width: 900px;
     float: left;
     height: 700px;
     background-color: #708090;
@@ -63,7 +63,7 @@ a {
 .pic {
     position: absolute;
     margin-left: 230px;
-    width: 600px;
+    width: 900px;
     float: left;
     height: 300px;
     background-color: black;
@@ -72,6 +72,6 @@ a {
 
 .profile{
     position:absolute;
-    margin-left: 280px;
+    margin-left: 220px;
     border-radius: 30%;
 }
