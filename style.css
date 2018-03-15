@@ -73,4 +73,5 @@ a {
 .profile{
     position:absolute;
     margin-left: 310px;
+    border-radius: 50%;
 }
