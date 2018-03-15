@@ -39,7 +39,7 @@ left: 60px;
     margin: 30px;
 }
 #first {
-    width: 300px;
+    width: 200px;
     float: left;
     height: 700px;
     background-color: transparent;
@@ -49,7 +49,7 @@ left: 60px;
     width: 900px;
     float: left;
     height: 700px;
-    background-color: #141414;
+    background-color: #080808;
     color: white;
 }
 #clear {
@@ -72,6 +72,6 @@ a {
 
 .profile{
     position:absolute;
-    margin-left: 220px;
-    border-radius: 30%;
+    margin-left: -10px;
+    border-radius: 50%;
 }
