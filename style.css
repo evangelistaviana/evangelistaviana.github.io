@@ -34,6 +34,7 @@ left: 60px;
 
 
 .container {
+    position: absolute;
     width: 151.3%;
     margin-left: 30px;
 }
